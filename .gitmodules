@@ -1,0 +1,6 @@
+[submodule "vue-rockheaven"]
+	path = vue-rockheaven
+	url = https://github.com/love-peace-pro/vue-rockheaven.git
+[submodule "nuxt-rockheaven"]
+	path = nuxt-rockheaven
+	url = https://github.com/love-peace-pro/nuxt-rockheaven.git
